@@ -6,4 +6,4 @@ yield the highest level of accuracy for the model and dataset, also created a vi
 metrics associated, going over what was happening, and providing my personal input for potental solutions going forward. - Alexander Gursky
 
 Order of view: KNNsimple_telecomchurn.ipynb | KNN_Evaluate_Accuracy.py | KNN_Evaluate_Optimal_Kappa.py | KNN_TelecomChurn_Optimized_Accuracy.py
-![image](https://user-images.githubusercontent.com/117600966/224582118-5074a76d-98b3-4ed5-9616-44d8a15faea1.png)
+![Figure_1](https://user-images.githubusercontent.com/117600966/224582191-eb7ea7b4-76a2-49f2-965b-5642ea0369c8.png)
