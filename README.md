@@ -1,4 +1,4 @@
-# KNN_TelecomChurn_Simple
+# KNN_TelecomChurn_Optimizing_Accuracy_Metric
 
 In this project I start out by doing a simple example of KNN in Jupyter Notebook, followed by showing how to quickly
 aquire accuracy while going over the general concept of what was happening. Third I iterated over potential Kappa values in order to find the one that would
